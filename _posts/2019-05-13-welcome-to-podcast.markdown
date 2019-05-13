@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Podcast.London!"
 date:   2019-05-13 20:00:00 +0000
 categories: introduction
-img: image-1.png
+img: welcome.jpg
 categories: [one, two]
 ---
 
