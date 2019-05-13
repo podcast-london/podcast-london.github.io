@@ -9,7 +9,7 @@ img: image-5.png
 Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
 
 Watch my video on instlallation
-<iframe width="100%" height="200" src="https://www.podbean.com/media/player/pncdz-4bf612e-dir?from=share&skin=1&share=1&fonts=Helvetica&download=1&version=1&skin=1&btn-skin=108"></iframe>
+<iframe width="100%" height="100" src="https://www.podbean.com/media/player/pncdz-4bf612e-dir?from=share&skin=1&share=1&fonts=Helvetica&download=1&version=1&skin=1&btn-skin=108" frameborder="0" scrolling="no"></iframe>
 
 ## How to delete old **gh-pages** branch?
 After forking the repository, click on **branches**.
