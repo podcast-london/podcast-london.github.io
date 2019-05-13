@@ -23,7 +23,7 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 built-by: Colin Walsh
 
 copyright:
-   name: webjeda
+   name: Podcast.London
    link: 'https://podcast.london'
 
 # Build settings
@@ -33,24 +33,24 @@ paginate: 6
 paginate_path: /page:num/
 
 # Tracker
-analytics: UA-83979019-1
+#analytics: UA-83979019-1
 
 # Comments
-disqus: yes
-disqus-shortname: webjeda-demo
+#disqus: yes
+#disqus-shortname: webjeda-demo
 
 #social
-facebook: http://facebook.com/webjeda
-quora: http://quora.com/sharathdt
-twitter: http://twitter.com/@webjeda
-github: http://github.com/webjeda
-email: hello@webjeda.com
+# facebook: http://facebook.com/webjeda
+# quora: http://quora.com/sharathdt
+# twitter: http://twitter.com/@webjeda
+# github: http://github.com/webjeda
+email: admin@podcast.london
 
 #facebook like box
-fb-like-box: yes
-fb-app-id: 549480635219583
-fb-page-url: https://www.facebook.com/webjeda/
-fb-page-title: webjeda
+#fb-like-box: yes
+#fb-app-id: 549480635219583
+#fb-page-url: https://www.facebook.com/webjeda/
+#fb-page-title: webjeda
 
 # Sass style
 sass:
