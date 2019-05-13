@@ -13,6 +13,4 @@ I ask that if you are submitting to the website that you give a few paragraphs o
 
 Also what I would ask also is if you could share a list of your top 5 podcasts that you listen to. Over time I will create an overall list of podcasts to listen to.
 
-To submit please email: [email]
-
-[email]: admin@podcast.london
+To submit please email: [admin@podcast.london](mailto:admin@podcast.london)
